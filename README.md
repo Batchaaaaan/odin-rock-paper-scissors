@@ -1,0 +1,1 @@
+This is a Rock-Paper-Scissors game created using Javascript and is played in the DevTools console.
