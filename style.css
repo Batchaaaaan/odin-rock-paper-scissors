@@ -1,0 +1,30 @@
+#container {
+    display: flex;
+    justify-items: space-between;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    
+}
+
+#buttons-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#players-score {
+    display: flex;
+    justify-items: space;
+    align-items: center;
+    gap: 128px;
+}
+
+#Rock, #Paper, #Scissors {
+    width: 150px;
+    height: 50px;
+    font-size: 24px;
+    padding: 12px;
+}
